@@ -15,4 +15,5 @@ Clean and Modular Code: Easy to read, maintain, and customize.
  ## Project Structure
 
 index.html - The main structure of the webpage.
+
 style.css - Contains all the styles and animations for the site.
